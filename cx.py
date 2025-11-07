@@ -222,9 +222,9 @@ class AutoSign(object):
 		params = {
 			'name': '',
 			'activeId': activeId,
-			'address': '中国',
+			'address': '南充市顺庆区油院路二段1号(原油院路30号) 西南石油大学(南充校区)',
 			'uid': '',
-			'clientip': '0.0.0.0',
+			'clientip': '172.19.0.1',
 			'latitude': '-2',
 			'longitude': '-1',
 			'fid': '',
